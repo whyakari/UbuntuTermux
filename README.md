@@ -26,5 +26,5 @@ Use o "```proot-distro restore ~/storage/downloads/filename.gz```" (*obviamente*
 
 Download Módulo(ROOT): [![](https://img.shields.io/static/v1?message=LetTheGhostsOut.zip&logo=magisk&labelColor=5c5c5c&color=00af9c&logoColor=white&label=%20&style=for-the-badge)](https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/ppr/PhantomProcessRetainer-main.zip)
 
-### Ou se não tiver root e nem computador, veja meu tutorial:
-[![Video Uploaded On Youtube](https://i3.ytimg.com/vi/IhK55QfWdYc/hqdefault.jpg)](https://youtu.be/IhK55QfWdYc)
+### Se você não tiver **ROOT** e nem um **COMPUTADOR**, veja meu tutorial:
+> [Repositorio ](https://github.com/AkariOficial/TermuxDisableProcces)
