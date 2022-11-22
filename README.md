@@ -24,4 +24,7 @@ Use o "```proot-distro restore ~/storage/downloads/filename.gz```" (*obviamente*
 ### Se o seu Termux receber o `erro signal error 9` 
 > Se tiver **ROOT**, Instale o módulo via **Magisk**:
 
-[![](https://img.shields.io/static/v1?message=LetTheGhostsOut.zip&logo=magisk&labelColor=5c5c5c&color=00af9c&logoColor=white&label=%20&style=for-the-badge)](https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/ppr/PhantomProcessRetainer-main.zip)
+Download Módulo(ROOT): [![](https://img.shields.io/static/v1?message=LetTheGhostsOut.zip&logo=magisk&labelColor=5c5c5c&color=00af9c&logoColor=white&label=%20&style=for-the-badge)](https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/ppr/PhantomProcessRetainer-main.zip)
+
+### Ou se não tiver root e nem computador, veja meu tutorial:
+[![Video Uploaded On Youtube](https://i3.ytimg.com/vi/IhK55QfWdYc/hqdefault.jpg)](https://youtu.be/IhK55QfWdYc)
